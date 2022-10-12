@@ -5,7 +5,7 @@ branding:
   color: 'green'
 inputs:
   token:
-    required: true
+    required: false
   config:
     required: false
     default: '.github/auto_request_review.yml'
